@@ -13,8 +13,6 @@ This repository documents my journey through the TryHackMe Pre Security Path, wi
 
 - Notes: [careers-in-cyber-notes.md](./careers-in-cyber-notes.md)
 - Screenshot: ![Careers in Cyber](./careers-in-cyber.png)
-- Notes: [defensive-security-notes.md](./defensive-security-notes.md)
-- Screenshot: ![Defensive Security Intro](./defensive-security-intro.png)
 
 ## 🎯 Goal
 
